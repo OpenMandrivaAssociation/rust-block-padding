@@ -5,7 +5,7 @@
 %global crate block-padding
 
 Name:           rust-%{crate}
-Version:        0.1.5
+Version:        0.4.2
 Release:        1%{?dist}
 Summary:        Padding and unpadding of messages divided into blocks
 
